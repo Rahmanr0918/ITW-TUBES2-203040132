@@ -1,0 +1,77 @@
+.nav-wrapper img {
+    width: 90px;
+}
+
+.slider h2,
+.slider h5,
+footer span {
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.8);
+    font-family: Charmonman;
+}
+
+p {
+    font-weight: 360;
+}
+
+.parallax-container {
+    height: 20%;
+}
+
+.parallax img {
+    opacity: 0.8 !important;
+}
+
+.par h3,
+.par a {
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.8);
+    padding: 60px 0;
+}
+
+.buton {
+    text-align: center;
+}
+
+.buton .login {
+    margin-top: -90px;
+    background: none;
+    border-radius: 30px;
+    box-shadow: 0 0 20px rgb(30, 224, 238), 0 0 40px rgb(30, 224, 238);
+    padding: 10px 30px;
+    line-height: 15px;
+}
+
+.buton .masuk {
+    margin-top: -90px;
+    background: none;
+    border-radius: 30px;
+    box-shadow: 0 0 20px rgb(70, 231, 6), 0 0 40px rgb(70, 231, 6);
+    padding: 10px 30px;
+    line-height: 15px;
+}
+
+.testi img {
+    width: 50%;
+}
+
+.portfolio img {
+    margin-bottom: 20px;
+}
+
+section {
+    padding: 20px 0;
+}
+
+footer {
+    padding: 10px;
+}
+
+footer p {
+    opacity: 0.8;
+
+}
+
+footer .icon a {
+    font-size: 30px;
+    color: white;
+    margin: 10px;
+}
