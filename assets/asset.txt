@@ -1,0 +1,13 @@
+Slider 		: 	2.jpg (unsplash.com)
+				3.jpg (unsplash.com)
+				slider>font, Charmonman (fonts.google.com)
+
+
+Parallax 	:	client.jpg (unsplash.com)
+
+Testimonial : tes1.jpg, tes2.jpg, tes3.jpg, tes4.jpg (by rahman)
+
+Portfolio	:	port1.jpg, port2.jpg, port3.jpg, port4.jpg, port5.jpg
+				port6.jpg (unsplah.com)
+
+footer 		: 	icons (https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.1/css/all.min.css)
